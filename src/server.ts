@@ -1,7 +1,4 @@
-import express from "express";
-import { Server } from "tls";
-
-const app = express();
+import app from "./app.js";
 
 const port = 3000;
 
